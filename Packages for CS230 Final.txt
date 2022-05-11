@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+matplotlib.use('TkAgg')
+matplotlib.pyplot
+numpy
+pydeck
